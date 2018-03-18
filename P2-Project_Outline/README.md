@@ -7,11 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This project is a calendar widget for websites. I got the idea because a friend of mine hosts a lot of workshops, and although she has her own professional website, she still uses Facebook to plan and promote her events. Facebook events are great, but she should be able to advertise her events on her own website as well. The calendar widget is a way to augment her website -- or any website -- with a user-friendly events calendar that she can easily update and customize. It's a versatile application that sits on top of existing websites without requiring them to alter perfectly functional base code.
+
 ### Features
-Include Features here
+- user-friendly interface
+- works with existing code
+- plan and promote events, track RSVPs
+- customizable display options
+- social media integration
+
 ### Technologies
-Include Technologies here
+- Java
+- Spring Boot
+- TomCat
+- MAMP
+- Thymeleaf templates
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+In order to include social media integration, I'll have to learn how to use data from public APIs. I may also have to expand my familiarity with CSS to make the visual design of the widget user-friendly, customizable, and attractive.
